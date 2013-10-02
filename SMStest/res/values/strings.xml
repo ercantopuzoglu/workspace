@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ercan SMS Yazılımı</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Send SMS test...</string>
+
+
+</resources>
